@@ -1,6 +1,6 @@
-### Здравейте! Аз съм **Stanimir Ivanov Penkov** 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=BF40BF&width=435&lines=Здравейте!+Аз+съм+Stanimir+Ivanov+Penkov+👋)
 
-![Profile Views](https://komarev.com/ghpvc/?username=stanimirpenkov&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Penk0vXd&color=blue)
 
 ---
 
@@ -12,22 +12,21 @@
 
 ---
 
-### 🏆 GitHub Трофеи:
-![trophy](https://github-profile-trophy.vercel.app/?username=stanimirpenkov&theme=darkhub&no-frame=true&title=MultiLanguage,Commit,Stars,Followers)
+## 🏆 GitHub Трофеи
+![](https://github-profile-trophy.vercel.app/?username=Penk0vXd&theme=github_dark_dimmed&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
 ### 📊 Статистики:
-![Stanimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanimirpenkov&show_icons=true&theme=dark&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanimirpenkov&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Penk0vXd&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Penk0vXd&layout=compact&theme=radical)
 
 ---
 
 ### 📢 Свържете се с мен:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
 
 ---
 
@@ -38,6 +37,10 @@
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer)
+![Coding The Matrix](https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif)
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=BF40BF&height=100&section=footer)
 
 > *"Винаги се стремя към съвършенство и никога не спирам да се уча!"*
