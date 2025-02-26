@@ -26,7 +26,7 @@
 
 | Име на сертификата | Снимка |
 | ------------------ |:------:|
-| [SoftUni - Programming Basics with C#](https://softuni.bg/certificates/details/238528/dca2e5dd) | [![Сертификат "XYZ"](https://softuni.bg//Content/images/certificates/logo-white.svg)](https://softuni.bg/certificates/details/238528/dca2e5dd) |
+| [SoftUni - Programming Basics with C#](https://softuni.bg/certificates/details/238528/dca2e5dd) | [![Сертификат "XYZ"](./Basics.jpeg)](https://softuni.bg/certificates/details/238528/dca2e5dd) |
 
 
 ---
