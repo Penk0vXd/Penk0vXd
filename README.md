@@ -22,6 +22,14 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Penk0vXd&layout=compact&theme=radical)
 
 ---
+## Сертификати
+
+| Име на сертификата | Снимка |
+| ------------------ |:------:|
+| [SoftUni - Programming Basics with C#](https://softuni.bg/certificates/details/238528/dca2e5dd) | [![Сертификат "XYZ"](https://softuni.bg//Content/images/certificates/logo-white.svg)](https://softuni.bg/certificates/details/238528/dca2e5dd) |
+
+
+---
 
 ### 📢 Свържете се с мен:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/penk0v.888)
