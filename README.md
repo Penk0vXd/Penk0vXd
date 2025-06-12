@@ -39,6 +39,6 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/penkovxd_19)
 
 
----+
+---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=BF40BF&height=100&section=footer)
