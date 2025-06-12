@@ -39,13 +39,6 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/penkovxd_19)
 
 
----
-
-### 💡 Цели и проекти:
-- 💡 Да стана един от най-добрите програмисти в България
-- 🚀 Създаване на **YouTube канал** с уроци на български език
-- 🌟 Работя по **системи за магазини** и **IoT проекти**
-
----
+---+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=BF40BF&height=100&section=footer)
